@@ -1,0 +1,3 @@
+# Ignored files
+mysql/data
+.DS_Store
