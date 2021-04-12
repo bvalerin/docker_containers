@@ -1,4 +1,4 @@
-# Docker Container Images
+# Docker Images
 
 ## What is Docker?
 
